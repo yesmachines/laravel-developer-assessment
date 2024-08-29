@@ -450,10 +450,10 @@ mysql> show columns from users;
 	</details>
 
 <br>
-Bonus
+
+★ Bonus
 +5 points - Write a Feature test covering the UserController functionalities
 +5 points - Write a Unit test covering the <timestamp>_create_users_table migration columns.
-
 <hr>
 <br>
 
